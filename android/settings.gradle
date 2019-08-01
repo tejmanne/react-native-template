@@ -1,0 +1,3 @@
+rootProject.name = 'armemes_client_mobile'
+
+include ':app'
